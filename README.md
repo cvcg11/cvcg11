@@ -3,13 +3,14 @@
 <img width="55%" align="right" alt="Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Actualmente en **RISKOR**:
-  - **Inspecciones**
-  - **Expedientes médicos**
-  - **Dispositivos**
-  - Y trabajando en la **app móvil de RISKOR** (Android).
-- 🌱 Mejorando: **Laravel**, **JWT (cookies HttpOnly/Secure)**, **Oracle Wallet**, **Heroku & OCI**.
-- 🛡️ Intereses: seguridad (RS256/Argon2id), REST limpio, UX accesible, validaciones frontend en tiempo real.
+  - **Inspecciones** (planificación, checklists, hallazgos y reportes)
+  - **Expedientes médicos** (historial, estados, documentos)
+  - **Dispositivos** (inventario, asignación, estado)
+  - Y construyendo la **app móvil de RISKOR** (Android) para inspecciones en campo.
+- 🌱 Mejorando: **Laravel**, **JWT con cookies HttpOnly/Secure**, **Oracle Wallet**, **Heroku & OCI**.
+- 🛡️ Intereses: seguridad (RS256/Argon2id), REST limpio, UX accesible y validaciones frontend en tiempo real.
 - 💬 Pregúntame sobre: **Java/Spring**, **SQL (Oracle & SQL Server)**, **JavaScript**, **Cloudinary**.
+- 📬 Contacto: [cristianvcg11@gmail.com](mailto:cristianvcg11@gmail.com)
 - ⚡ Fun fact: me gustan los girasoles 🌻.
 
 <br clear="both"/>
@@ -70,5 +71,15 @@
   <img alt="Android Studio" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
 </p>
 
-## 📈 Actividad (estilo plantilla)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvcg11&theme=tokyonight) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvcg11&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+## 📊 Lenguajes (repos + contribuciones)
+> Vista combinada: análisis profundo + actividad reciente.
+<img alt="Lenguajes (repos + contribs)" src="https://raw.githubusercontent.com/cvcg11/cvcg11/main/metrics-langs.svg" />
+<img alt="Lenguajes recientes" src="https://raw.githubusercontent.com/cvcg11/cvcg11/main/metrics-langs-recent.svg" />
+
+## ⏱️ WakaTime (últimos 7 días)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=cvcg11&layout=compact&langs_count=8)
+
+## 📈 Actividad
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvcg11&show_icons=true&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
