@@ -1,22 +1,3 @@
-<p align="center">
-  <img width="200" src="https://github.com/cvcg11.png" alt="cvcg11 avatar" />
-</p>
-
-<h1 align="center"> ¡Hola, Devs! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cvcg11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/cvcg11">
-    <img src="https://img.shields.io/github/followers/cvcg11?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-</p>
-
-<div align="center">
-  <em>Chris · Desarrollador full-stack. Construyendo <b>RISKOR</b> (Seguridad y Salud Ocupacional) con Spring Boot 3, Oracle ATP y Vanilla JS.</em>
-</div>
-
-<br/>
-
 <h2>Sobre mí</h2>
 
 <img width="55%" align="right" alt="Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
