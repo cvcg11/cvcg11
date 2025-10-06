@@ -71,4 +71,4 @@
 </p>
 
 ## 📈 Actividad (estilo plantilla)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvcg11&theme=tokyonight) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvcg11&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvcg11&theme=tokyonight) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvcg11&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
