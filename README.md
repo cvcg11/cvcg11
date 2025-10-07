@@ -1,3 +1,4 @@
+<!--
 <h2> Un poco sobre mi <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="90px"></h2>
 
 <img width="55%" align="right" alt="Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -39,51 +40,38 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
 ---
+-->## 📊 Lenguajes y estadísticas
 
-## 📊 Lenguajes
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Repos personales
-<img alt="Top Langs (repos propios)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvcg11&layout=compact&theme=tokyonight">
+<img
+  alt="Top Langs (repos propios)"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvcg11&layout=compact&theme=tokyonight"
+  width="100%"
+/>
 
 </td>
 <td width="50%" valign="top">
 
-### Contribuciones (reciente)
-<img alt="Lenguajes por contribuciones (reciente)" src="https://raw.githubusercontent.com/cvcg11/cvcg11/main/metrics-langs-recent.svg" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Estadísticas de GitHub
-<table>
-<tr>
-<td width="55%" valign="top">
-
-<!-- Tarjeta única con grado/rank -->
+### Estadísticas de GitHub
 <img
   alt="GitHub Stats (rank)"
   src="https://github-readme-stats.vercel.app/api?username=cvcg11&show_icons=true&include_all_commits=true&count_private=true&custom_title=cvcg11%27s%20GitHub%20Stats&theme=tokyonight"
+  width="100%"
 />
 
-</td>
-<td width="45%" valign="top">
+<br/>
 
-### Highlights
-- 🤝 Contribuciones en **orgs externas**:
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Acvcg11+org%3Aextre">PRs en extre</a> ·
-  <a href="https://github.com/issues?q=is%3Aissue+author%3Acvcg11+org%3Aextre">Issues en extre</a>  
-- 🧠 En progreso: **Laravel**, **Android**, **JWT cookies**  
-- 📦 Interés: **DB tuning** (Oracle/SQL Server)  
-- 🤗 Abierto a colaborar en **Java/JS/PHP**
+### Contribuciones (reciente)
+<img
+  alt="Lenguajes por contribuciones (reciente)"
+  src="https://raw.githubusercontent.com/cvcg11/cvcg11/main/metrics-langs-recent.svg"
+  width="100%"
+/>
 
 </td>
 </tr>
 </table>
-
----
