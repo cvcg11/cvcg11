@@ -1,4 +1,4 @@
-name: Update WakaTime Stats
+name: Update WakaTime Stats (All Time)
 
 on:
   schedule:
@@ -23,5 +23,5 @@ jobs:
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
+          BLOCKS: ░▒▓█
           CODE_LANG: txt
-          BLOCKS: ▰▰▰▱▱
