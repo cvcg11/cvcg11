@@ -22,18 +22,16 @@ jobs:
 
           filename: metrics.svg
           committer_branch: main
-          committer_message: "Update Metrics"
+          committer_message: "Update Complete Metrics"
 
-          # ---------- Template QUE SÍ FUNCIONA ----------
-          template: clean
-
-          # ---------- Configuración ----------
+          # ---------- Apariencia ----------
+          template: classic
           config_timezone: America/El_Salvador
           config_twemoji: yes
           config_animations: yes
 
-          # ---------- Base ----------
-          base: header, metadata, repositories
+          # ---------- Secciones base ----------
+          base: header,metadata,repositories
 
           # ---------- Lenguajes ----------
           plugin_languages: yes
@@ -41,14 +39,19 @@ jobs:
           plugin_languages_recent_days: 30
           plugin_languages_recent_load: 300
           plugin_languages_categories: programming, markup
+          plugin_languages_threshold: 0%
 
-          # ---------- Actividad ligera ----------
+          # ---------- Activity (light) ----------
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 7
           plugin_activity_filter: commits
 
-          # ---------- Achievements ----------
+          # ---------- Repos destacados ----------
+          plugin_repositories: yes
+          plugin_repositories_featured: cvcg11, Leal-Import
+
+          # ---------- Achievements (ligero) ----------
           plugin_achievements: yes
           plugin_achievements_threshold: B
           plugin_achievements_display: compact
@@ -56,5 +59,5 @@ jobs:
           # ---------- WakaTime ----------
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, languages, editors, os
+          plugin_wakatime_sections: time,languages,editors,os
           plugin_wakatime_days: 7
