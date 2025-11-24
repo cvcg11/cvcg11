@@ -1,14 +1,12 @@
 ## Stats
 
 <!--START_SECTION:waka-->
+## All Time Stats  
 
-```txt
-SQL          9 hrs 51 mins   ███████████████████▓░░░░░   78.85 %
-JavaScript   1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
-Java         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-HTML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-```
+Desde: {{start_date}} — Hasta: {{end_date}}
+────────────────────────────────────
+
+{{waka_stats}}
 
 <!--END_SECTION:waka-->
 
@@ -47,26 +45,6 @@ CSS          5 mins          ▒░░░░░░░░░░░░░░░░
       <img src="https://img.shields.io/badge/MySQL-242938?logo=mysql&logoColor=4479A1&style=for-the-badge" />
       <img src="https://img.shields.io/badge/SQL%20Server-242938?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/MongoDB-242938?logo=mongodb&logoColor=47A248&style=for-the-badge" />
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Tools</th>
-    <td>
-      <img src="https://img.shields.io/badge/Git-242938?logo=git&logoColor=F05032&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/GitHub-242938?logo=github&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Postman-242938?logo=postman&logoColor=FF6C37&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Jira-242938?logo=jira&logoColor=0052CC&style=for-the-badge" />
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Hosting</th>
-    <td>
-      <img src="https://img.shields.io/badge/Vercel-242938?logo=vercel&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Heroku-242938?logo=heroku&logoColor=430098&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Netlify-242938?logo=netlify&logoColor=00C7B7&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Railway-242938?logo=railway&logoColor=white&style=for-the-badge" />
     </td>
   </tr>
 </table>
