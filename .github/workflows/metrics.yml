@@ -16,7 +16,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      # --- MÉTRICA 1: Lenguajes (repos + contribuciones)
       - name: Lenguajes (repos + contribuciones)
         uses: lowlighter/metrics@latest
         with:
@@ -26,14 +25,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           repositories_affiliations: owner, collaborator, organization_member
-          
-          # NECESARIO para guardar el archivo
           output_action: commit
           committer_branch: main
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_message: "chore(metrics): update langs indepth"
 
-      # --- MÉTRICA 2: Lenguajes recientes
       - name: Lenguajes recientes (por actividad)
         uses: lowlighter/metrics@latest
         with:
@@ -44,13 +39,10 @@ jobs:
           plugin_languages_recent: yes
           plugin_languages_recent_days: 14
           repositories_affiliations: owner, collaborator, organization_member
-
           output_action: commit
           committer_branch: main
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_message: "chore(metrics): update langs recent"
 
-      # --- MÉTRICA 3: WAKATIME
       - name: WakaTime — Time Tracking
         uses: lowlighter/metrics@latest
         with:
@@ -61,10 +53,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time, languages, editors
-          plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: cvcg11
-
           output_action: commit
           committer_branch: main
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_message: "chore(metrics): update wakatime"
