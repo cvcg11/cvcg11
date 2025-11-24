@@ -11,7 +11,11 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Lenguajes (repos + contribuciones)
         uses: lowlighter/metrics@latest
         with:
@@ -54,9 +58,10 @@ jobs:
           committer_branch: main
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: "chore(metrics): update wakatime stats"
+
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_user: "cvcg11"
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time, languages, editors, projects
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: "cvcg11"
