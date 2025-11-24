@@ -1,4 +1,8 @@
-![WakaTime TokyoNight](https://github-readme-stats.vercel.app/api/wakatime?username=cvcg11&theme=tokyonight)
+## Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ---
 
