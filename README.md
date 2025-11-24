@@ -1,78 +1,67 @@
-<!--
-<h2> Un poco sobre mi <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="90px"></h2>
+## ⏱️ WakaTime — Tiempo programando
 
-<img width="55%" align="right" alt="Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+> Estadísticas generadas automáticamente desde tu cuenta **@cvcg11**
 
-- 🔭 Focus: **Backend REST** con Java/Spring y algo de **frontend** con JS.
-- 🌱 Learning: **Laravel**, **Android**, **JWT (cookies HttpOnly/Secure)**, **Oracle/SQL Server**.
-- 👯 Abierto a colaborar en **Java / JS / PHP**.
-- 💬 Pregúntame sobre: **SQL**, **Java**, **C#**, **JavaScript**.
-- 📬 Contacto: **cristianvcg11@gmail.com**
-- ⚡ Fun fact: me gustan los girasoles 🌻.
-
-<br clear="both"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
-## Skills
+## 🧩 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+<table width="100%">
+  <tr>
+    <th align="left">Backend</th>
+    <td>
+      <img src="https://img.shields.io/badge/Java-242938?logo=openjdk&logoColor=orange&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Php-242938?logo=php&logoColor=777BB3&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Node.js-242938?logo=node.js&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/C%23-242938?logo=csharp&logoColor=68217A&style=for-the-badge" />
+      <br/>
+      <img src="https://img.shields.io/badge/Spring-242938?logo=spring&logoColor=green&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Laravel-242938?logo=laravel&logoColor=red&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Slim-242938?logo=php&logoColor=719E40&style=for-the-badge" />
+    </td>
+  </tr>
 
-### Frameworks & Runtime
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+  <tr>
+    <th align="left">Frontend</th>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-242938?logo=javascript&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/HTML5-242938?logo=html5&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/CSS-242938?logo=css&logoColor=563D77&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Figma-242938?logo=figma&style=for-the-badge" />
+    </td>
+  </tr>
 
-### Databases
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+  <tr>
+    <th align="left">Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/Oracle-242938?logo=oracle&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/MySQL-242938?logo=mysql&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/SQL%20Server-242938?logo=microsoftsqlserver&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/MongoDB-242938?logo=mongodb&style=for-the-badge" />
+    </td>
+  </tr>
 
-### Tools & IDEs
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+  <tr>
+    <th align="left">Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/Git-242938?logo=git&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/GitHub-242938?logo=github&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Jira-242938?logo=jira&logoColor=3b5998&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Postman-242938?logo=postman&logoColor=Ef5b25&style=for-the-badge" />
+    </td>
+  </tr>
 
----
--->
-## 📊 Lenguajes y estadísticas
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Repos personales
-<img
-  alt="Top Langs (repos propios)"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvcg11&layout=compact&theme=tokyonight"
-  width="100%"
-/>
-
-</td>
-<td width="50%" valign="top">
-
-### Estadísticas de GitHub
-<img
-  alt="GitHub Stats (rank)"
-  src="https://github-readme-stats.vercel.app/api?username=cvcg11&show_icons=true&include_all_commits=true&count_private=true&custom_title=cvcg11%27s%20GitHub%20Stats&theme=tokyonight"
-  width="100%"
-/>
-
-<br/>
-
-### Contribuciones (reciente)
-<img
-  alt="Lenguajes por contribuciones (reciente)"
-  src="https://raw.githubusercontent.com/cvcg11/cvcg11/main/metrics-langs-recent.svg"
-  width="100%"
-/>
-
-</td>
-</tr>
+  <tr>
+    <th align="left">Hosting</th>
+    <td>
+      <img src="https://img.shields.io/badge/Vercel-242938?logo=vercel&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Render-242938?logo=render&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Heroku-242938?logo=heroku&logoColor=C9C3E6&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Netlify-242938?logo=netlify&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Railway-242938?logo=railway&logoColor=white&style=for-the-badge" />
+    </td>
+  </tr>
 </table>
