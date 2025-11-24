@@ -56,24 +56,4 @@ Java Properties   25 mins         ░░░░░░░░░░░░░░░�
       <img src="https://img.shields.io/badge/MongoDB-242938?logo=mongodb&logoColor=47A248&style=for-the-badge" />
     </td>
   </tr>
-
-  <tr>
-    <th align="left">Tools</th>
-    <td>
-      <img src="https://img.shields.io/badge/Git-242938?logo=git&logoColor=F05032&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/GitHub-242938?logo=github&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Postman-242938?logo=postman&logoColor=FF6C37&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Jira-242938?logo=jira&logoColor=0052CC&style=for-the-badge" />
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Hosting</th>
-    <td>
-      <img src="https://img.shields.io/badge/Vercel-242938?logo=vercel&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Heroku-242938?logo=heroku&logoColor=430098&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Netlify-242938?logo=netlify&logoColor=00C7B7&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Railway-242938?logo=railway&logoColor=white&style=for-the-badge" />
-    </td>
-  </tr>
 </table>
