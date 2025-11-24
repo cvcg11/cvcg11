@@ -17,8 +17,7 @@
       <br/>
       <img src="https://img.shields.io/badge/Spring-242938?logo=spring&logoColor=6DB33F&style=for-the-badge" />
       <img src="https://img.shields.io/badge/Laravel-242938?logo=laravel&logoColor=FF2D20&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Slim-242938?logo=php&logoColor=white&style=for-the-badge" />
-    </td>
+      </td>
   </tr>
 
   <tr>
