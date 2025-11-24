@@ -1,4 +1,4 @@
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cvcg11)
+![WakaTime TokyoNight](https://github-readme-stats.vercel.app/api/wakatime?username=cvcg11&theme=tokyonight)
 
 ---
 
