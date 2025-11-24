@@ -41,14 +41,4 @@
       <img src="https://img.shields.io/badge/MongoDB-242938?logo=mongodb&style=for-the-badge" />
     </td>
   </tr>
-
-  <tr>
-    <th align="left">Tools</th>
-    <td>
-      <img src="https://img.shields.io/badge/Git-242938?logo=git&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/GitHub-242938?logo=github&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Jira-242938?logo=jira&logoColor=3b5998&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Postman-242938?logo=postman&logoColor=Ef5b25&style=for-the-badge" />
-    </td>
-  </tr>
 </table>
