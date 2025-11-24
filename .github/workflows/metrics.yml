@@ -3,7 +3,10 @@ name: Generate WakaTime Metrics
 on:
   schedule:
     - cron: "0 * * * *"   # Cada hora
-  workflow_dispatch:       # Permite ejecutarlo manual
+  workflow_dispatch:
+
+permissions:
+  contents: write   # <-- NECESARIO para guardar el archivo en tu repo
 
 jobs:
   build:
@@ -13,8 +16,14 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}   # Para commit, NO analiza repos
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Dónde guardar el archivo generado
           filename: metrics.svg
+          committer_branch: main
+          committer_message: "Update WakaTime metrics"
+
+          # Solo mostrar datos de WakaTime
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
