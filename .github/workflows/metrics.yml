@@ -48,10 +48,6 @@ jobs:
           plugin_activity_days: 7
           plugin_activity_filter: commits
 
-          # ---------- Repos destacados ----------
-          plugin_repositories: yes
-          plugin_repositories_featured: cvcg11, Leal-Import
-
           # ---------- Achievements ----------
           plugin_achievements: yes
           plugin_achievements_threshold: B
