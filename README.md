@@ -1,12 +1,10 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cvcg11&layout=compact&theme=dark)
 
-<!--END_SECTION:waka-->
-
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 <table>
   <tr>
