@@ -1,8 +1,5 @@
 <!--START_SECTION:waka-->
-## 📊 WakaTime Stats
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cvcg11&layout=compact&theme=dark)
-
-... contenido ...
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cvcg11&theme=dark)
 <!--END_SECTION:waka-->
 
 
