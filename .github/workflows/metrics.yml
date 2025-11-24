@@ -1,0 +1,27 @@
+name: Update WakaTime Stats (All Time)
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: cvcg11/cvcg11
+          SHOW_TITLE: false
+          SECTION_NAME: waka
+
+          TIME_RANGE: all_time
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          BLOCKS: ░▒▓█
+          CODE_LANG: txt
