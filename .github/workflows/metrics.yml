@@ -18,7 +18,7 @@ jobs:
           REPOSITORY: cvcg11/cvcg11
           SHOW_TITLE: false
           SECTION_NAME: waka
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
           LANG_COUNT: 6
           SHOW_TIME: true
           SHOW_TOTAL: true
