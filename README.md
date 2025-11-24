@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cvcg11&layout=compact&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cvcg11&layout=compact&theme=dark)
 
 <!--END_SECTION:waka-->
 
 
 ---
 
-## 🧩 Tech Stack (minimalista)
+##Tech Stack
 
 <table>
   <tr>
