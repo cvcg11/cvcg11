@@ -30,7 +30,7 @@ jobs:
 
           # Apariencia
           template: classic
-          config_time: Europe/Madrid
+          config_timezone: Europe/Madrid
           config_twemoji: yes
           config_animations: yes
           config_display: large
