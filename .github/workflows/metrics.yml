@@ -1,4 +1,4 @@
-name: Generate Metrics
+name: Generate Full Metrics
 
 on:
   schedule:
@@ -16,23 +16,86 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
+          # Token para escribir en tu repo
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: cvcg11          # <-- Obligatorio
-          repo: cvcg11          # <-- Obligatorio
+
+          # Usuario y repo a analizar (OBLIGATORIO)
+          user: cvcg11
+          repo: cvcg11
 
           # Archivo generado
           filename: metrics.svg
           committer_branch: main
-          committer_message: "Update Metrics"
+          committer_message: "Update Full Metrics"
 
-          # Lenguajes de GitHub
-          base: "languages"
+          # Apariencia
+          template: classic
+          config_time: Europe/Madrid
+          config_twemoji: yes
+          config_animations: yes
+          config_display: large
+          config_base64: yes
+
+          # -------------------------------
+          # 🔥 SECCIÓN BASE — ESTADÍSTICAS
+          # -------------------------------
+          base: header, activity, community, repositories, metadata
+
+          # -------------------------------
+          # 🔥 LENGUAJES DE GITHUB
+          # -------------------------------
           plugin_languages: yes
           plugin_languages_indepth: no
           plugin_languages_categories: programming, markup
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 30
+          plugin_languages_recent_load: 500
+          plugin_languages_threshold: 0%
+          plugin_languages_colors: github
 
-          # WakaTime
+          # -------------------------------
+          # 🔥 CONTRIBUCIONES Y GRÁFICA
+          # -------------------------------
+          plugin_activity: yes
+          plugin_activity_limit: 7
+          plugin_activity_days: 14
+          plugin_activity_filter: issues, prs, reviews, comments, commits
+
+          # --------------------------------
+          # 🔥 COMMITS RECIENTES
+          # --------------------------------
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+
+          # --------------------------------
+          # 🔥 REPOS DESTACADOS
+          # --------------------------------
+          plugin_repositories: yes
+          plugin_repositories_featured: cvcg11, Leal-Import
+
+          # --------------------------------
+          # 🔥 WAKATIME — TIEMPO PROGRAMANDO
+          # --------------------------------
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, languages, editors, os
+          plugin_wakatime_sections: time, languages, editors, os, projects
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+
+          # --------------------------------
+          # 🔥 ACHIEVEMENTS / LOGROS
+          # --------------------------------
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+
+          # --------------------------------
+          # 🔥 FOLLOWERS & FOLLOWING
+          # --------------------------------
+          plugin_followup: yes
+          plugin_followup_sections: user, repository
+
+          # --------------------------------
+          # 🔥 STARRED
+          # --------------------------------
+          plugin_stargazers: yes
