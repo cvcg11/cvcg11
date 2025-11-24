@@ -1,12 +1,21 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-## All Time Stats  
 
-Desde: {{start_date}} — Hasta: {{end_date}}
-────────────────────────────────────
+```txt
+Total Time: 200 hrs 58 mins
 
-{{waka_stats}}
+JavaScript        107 hrs 24 mins ▱▱▱▱▱▱▱▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰   53.41 %
+SQL               23 hrs 3 mins   ▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   11.46 %
+CSS               21 hrs 22 mins  ▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   10.63 %
+HTML              20 hrs 21 mins  ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   10.12 %
+PHP               17 hrs 48 mins  ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   08.85 %
+Java              5 hrs 53 mins   ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   02.93 %
+Bash              1 hr 54 mins    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   00.95 %
+JSON              1 hr 15 mins    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   00.63 %
+XML               26 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   00.22 %
+Java Properties   25 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   00.21 %
+```
 
 <!--END_SECTION:waka-->
 
