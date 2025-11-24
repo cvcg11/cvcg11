@@ -1,7 +1,7 @@
 ## ⏱️ WakaTime — Tiempo programando  
 > Estadísticas generadas automáticamente desde tu cuenta **@cvcg11**
-
-<img src="./metrics-wakatime.svg" width="100%" />
+> 
+![WakaTime Stats](metrics.svg)
 
 ---
 
