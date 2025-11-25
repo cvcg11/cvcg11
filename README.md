@@ -43,7 +43,7 @@ Java Properties   25 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰�
       <img src="https://img.shields.io/badge/JavaScript-242938?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
       <img src="https://img.shields.io/badge/HTML5-242938?logo=html5&logoColor=E34F26&style=for-the-badge" />
       <img src="https://img.shields.io/badge/CSS3-242938?logo=css&logoColor=1572B6&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Figma-242938?logo=figma&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Figma-242938?logo=figma&style=for-the-badge" />
     </td>
   </tr>
 
