@@ -31,7 +31,6 @@ Java Properties   28 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰�
       <img src="https://img.shields.io/badge/Java-242938?logo=openjdk&logoColor=orange&style=for-the-badge" />
       <img src="https://img.shields.io/badge/PHP-242938?logo=php&logoColor=777BB3&style=for-the-badge" />
       <img src="https://img.shields.io/badge/Node.js-242938?logo=node.js&logoColor=6DA55F&style=for-the-badge" />
-      <br/>
       <img src="https://img.shields.io/badge/Spring-242938?logo=spring&logoColor=6DB33F&style=for-the-badge" />
       <img src="https://img.shields.io/badge/Laravel-242938?logo=laravel&logoColor=FF2D20&style=for-the-badge" />
       </td>
