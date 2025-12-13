@@ -1,5 +1,3 @@
-[![committers.top rank](https://user-badge.committers.top/el-salvador/cvcg11.svg)](https://committers.top/el-salvador/cvcg11)
-
 ## Stats
 
 <!--START_SECTION:waka-->
