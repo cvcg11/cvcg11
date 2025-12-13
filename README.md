@@ -31,7 +31,6 @@ YAML              1 hr            ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰�
       <img src="https://img.shields.io/badge/Java-242938?logo=openjdk&logoColor=orange&style=for-the-badge" />
       <img src="https://img.shields.io/badge/PHP-242938?logo=php&logoColor=777BB3&style=for-the-badge" />
       <img src="https://img.shields.io/badge/Node.js-242938?logo=node.js&logoColor=6DA55F&style=for-the-badge" />
-      <br>
       <img src="https://img.shields.io/badge/Spring-242938?logo=spring&logoColor=6DB33F&style=for-the-badge" />
       <img src="https://img.shields.io/badge/Laravel-242938?logo=laravel&logoColor=FF2D20&style=for-the-badge" />
       </td>
@@ -43,7 +42,6 @@ YAML              1 hr            ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰�
       <img src="https://img.shields.io/badge/JavaScript-242938?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
       <img src="https://img.shields.io/badge/HTML5-242938?logo=html5&logoColor=E34F26&style=for-the-badge" />
       <img src="https://img.shields.io/badge/CSS3-242938?logo=css&logoColor=1572B6&style=for-the-badge" />
-      <br>
       <img src="https://img.shields.io/badge/Figma-242938?logo=figma&style=for-the-badge" />
       <img src="https://img.shields.io/badge/Flutter-242938?logo=flutter&style=for-the-badge" />
     </td>
