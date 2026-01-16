@@ -28,8 +28,8 @@ SQL               41 hrs 23 mins  ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰�
 **Backend:** 
 Java 17+, Spring Boot, JPA / Hibernate, REST API design, Spring Security
 
-**DataBases:**
-MySQL, SQLServer y Oracle(OCI Autonomous Database)
+**Databases:**
+MySQL, SQL Server, Oracle (OCI Autonomous Database)
 
 **Working Practices:**
 JWT-based authentication, CSRF protection (XSRF-TOKEN cookies), transactional methods, asynchronous execution after commit, global error handling.
