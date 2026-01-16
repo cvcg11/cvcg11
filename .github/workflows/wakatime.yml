@@ -14,11 +14,13 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: "false"
-          BLOCKS: ""
-          TIME_RANGE: "all_time"
-          SHOW_TIME: "true"
-          SHOW_TOTAL: "true"
-          LANG_COUNT: 4
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          SHOW_TITLE: false
+          TIME_RANGE: all_time
+          LANG_COUNT: 3
+          STOP_AT_OTHER: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          CODE_LANG: txt
           BLOCKS: ▰▰▰▱▱
