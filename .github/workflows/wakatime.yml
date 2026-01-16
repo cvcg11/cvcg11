@@ -1,8 +1,8 @@
-name: Update WakaTime Stats
+name: Update WakaTime stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,14 +14,11 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          REPOSITORY: cvcg11/cvcg11
-          SHOW_TITLE: false
-          SECTION_NAME: waka
-
-          TIME_RANGE: all_time
-          LANG_COUNT: 3
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          CODE_LANG: txt
+           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: "false"
+          BLOCKS: ""
+          TIME_RANGE: "all_time"
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          LANG_COUNT: 4
           BLOCKS: ▰▰▰▱▱
