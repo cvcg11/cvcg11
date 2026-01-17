@@ -13,6 +13,7 @@ I prioritize clean and maintainable architectures, applying:
 
 ## Development Activity
 <!--START_SECTION:waka-->
+
 ```txt
 Total Time: 468 hrs 20 mins
 
