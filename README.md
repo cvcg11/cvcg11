@@ -1,5 +1,5 @@
 # Christian Gómez | Backend Developer (Java • Spring Boot • SQL)
-### Backend-oriented Software Engineering student  
+### Backend-oriented Software Developer  
 [![committers.top badge](https://user-badge.committers.top/el_salvador_private/cvcg11.svg)](https://committers.top/el_salvador_private)  
 
 
