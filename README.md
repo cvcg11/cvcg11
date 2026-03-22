@@ -4,7 +4,7 @@
 
 
 ## About Me
-Software Engineering student focused on **backend development with Java and SQL**, with hands-on experience integrating **web, mobile, and desktop applications** through REST APIs.
+Software Engineering student focused on **backend development with Java and SQL**, with hands-on experience integrating backend systems with web, mobile, and desktop clients through REST APIs.
 
 I prioritize clean and maintainable architectures, applying:
 - **Domain-Driven Design (DDD) principles**
@@ -37,7 +37,7 @@ JWT-based authentication, CSRF protection (XSRF-TOKEN cookies), transactional me
 
 ### System Integration Experience
 - Web applications consuming REST APIs (HTML, CSS, JavaScript)
-- Mobile hybrid applications (Capacitor)
+- Mobile applications (Flutter, Capacitor)
 - Desktop applications (C# + SQL Server)
 - Client–server communication and data consistency
 
