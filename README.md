@@ -7,7 +7,6 @@
 Software Engineering student focused on **backend development with Java and SQL**, with hands-on experience integrating backend systems with web, mobile, and desktop clients through REST APIs.
 
 I prioritize clean and maintainable architectures, applying:
-- **Domain-Driven Design (DDD) principles**
 - **Layered architecture with DTO-based validation**
 - **Business rules and transactional consistency**
 
@@ -24,20 +23,3 @@ SQL                 44 hrs 54 mins        ▱▰▰▰▰▰▰▰▰▰▰▰�
 
 <!--END_SECTION:waka-->
 ---
-
-## Core Expertise
-**Backend:** 
-Java 17+, Spring Boot, JPA / Hibernate, REST API design, Spring Security
-
-**Databases:**
-MySQL, SQL Server, Oracle (OCI Autonomous Database)
-
-**Working Practices:**
-JWT-based authentication, CSRF protection (XSRF-TOKEN cookies), transactional methods, asynchronous execution after commit, global error handling.
-
-### System Integration Experience
-- Web applications consuming REST APIs (HTML, CSS, JavaScript)
-- Mobile applications (Flutter, Capacitor)
-- Desktop applications (C# + SQL Server)
-- Client–server communication and data consistency
-
