@@ -14,11 +14,11 @@ I prioritize clean and maintainable architectures, applying:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 825 hrs 59 mins
+Total Time: 829 hrs 8 mins
 
-Java                431 hrs 7 mins        ▱▱▱▱▱▱▱▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰   52.03 %
-JavaScript          184 hrs 43 mins       ▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   22.29 %
-SQL                 45 hrs 8 mins         ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   05.45 %
+Java                431 hrs 7 mins        ▱▱▱▱▱▱▱▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰   51.83 %
+JavaScript          187 hrs 29 mins       ▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   22.54 %
+SQL                 45 hrs 8 mins         ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   05.43 %
 ```
 
 <!--END_SECTION:waka-->
