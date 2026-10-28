@@ -25,7 +25,7 @@ It incorporates **OAuth 2.0/OIDC, Docker, CI/CD, and MCP integrations**, with a 
 
 ## Tech stack
 
-[![Tech stack](https://skillicons.dev/icons?i=java,spring,postgres,docker,gcp,githubactions,git,maven&perline=8)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=java,spring,postgres,docker,gcp,githubactions,git,maven,gradle&perline=8)](https://skillicons.dev)
 
 **Backend:** Java · Spring Boot · REST APIs · Spring Security · JPA/Hibernate  
 **Cloud & DevOps:** Google Cloud Platform · Cloud Run · Docker · GitHub Actions · CI/CD  
