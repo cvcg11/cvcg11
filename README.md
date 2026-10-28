@@ -1,50 +1,48 @@
-# Christian Gómez | Backend Developer • Java & Spring Boot
+# Christian Gómez
 
-### Backend-oriented Software Engineering Student
+**Backend Developer · Java & Spring Boot · Google Cloud Platform**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3400&pause=1300&color=4285F4&width=650&lines=Java+%2B+Spring+Boot+%2B+PostgreSQL;Cloud-ready+applications+on+Google+Cloud)](https://github.com/DenverCoder1/readme-typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-cvcg)
+[![GitHub](https://img.shields.io/badge/GitHub-cvcg11-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cvcg11)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cristianvcg11@gmail.com)
 [![committers.top badge](https://user-badge.committers.top/el_salvador_private/cvcg11.svg)](https://committers.top/el_salvador_private)
 
-## About Me
+## About me
 
-Software Engineering student focused on designing and developing secure, maintainable, and scalable backend systems with **Java, Spring Boot, and SQL**.
+I'm a backend developer focused on building **secure, maintainable, and scalable applications** with **Java, Spring Boot, and PostgreSQL**. I've contributed to production-oriented systems involving authentication, third-party integrations, payments, and AI-assisted workflows.
 
-I have hands-on experience building REST APIs for web, mobile, and desktop applications. My work focuses on modular architecture, secure authentication, transactional consistency, database modeling, and clear separation of responsibilities.
+My current interests include **Google Cloud Platform (GCP)**, containerized deployments, CI/CD, transactional consistency, and well-structured REST APIs.
 
-I am currently evolving from traditional layered applications toward **multi-tenant SaaS architectures**, where security, auditability, session management, and tenant isolation are essential parts of the system design.
+## Featured Project · CGI Import
 
-## Current Focus
+**CGI Import** is an automotive management platform designed to centralize customer information, vehicle records, import operations, and business processes.
 
-- Secure SaaS and multi-tenant backend architecture
-- OAuth2 and JWT-based authentication
-- Access and refresh token lifecycle management
-- Integration and security testing
-- Database performance and transactional concurrency
-- Docker, CI/CD, and cloud deployment fundamentals
+Built with **Java, Spring Boot, and PostgreSQL**, the project focuses on secure REST APIs, modular architecture, and integration with web and mobile applications.
 
-## Development Activity
-<!--START_SECTION:waka-->
+It incorporates **OAuth 2.0/OIDC, Docker, CI/CD, and MCP integrations**, with a cloud-ready architecture designed for **Google Cloud Platform (GCP)**.
 
-```txt
-Total Time: 1,157 hrs 25 mins
+## Tech stack
 
-Java                529 hrs 51 mins       ▱▱▱▱▱▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰   44.85 %
-JavaScript          278 hrs 14 mins       ▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   23.55 %
-SQL                 49 hrs 17 mins        ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   04.17 %
-```
+[![Tech stack](https://skillicons.dev/icons?i=java,spring,postgres,docker,gcp,githubactions,git,maven&perline=8)](https://skillicons.dev)
 
-<!--END_SECTION:waka-->
+**Backend:** Java · Spring Boot · REST APIs · Spring Security · JPA/Hibernate  
+**Cloud & DevOps:** Google Cloud Platform · Cloud Run · Docker · GitHub Actions · CI/CD  
+**Data & integrations:** PostgreSQL · OAuth/OIDC · Cloudinary · Webhooks · MCP
+
+## Beyond traditional backend
+
+- **YonJobSv:** AI-powered recruiting platform with OCR, RAG-based job matching, payments, and webhook notifications.
+- **Leal Import:** Backend work on automotive operations, inventory, sales, and payments using Java, Spring Boot, PostgreSQL, and Redis.
+
+## GitHub activity
+
+![Contribution Snake - light](https://raw.githubusercontent.com/cvcg11/cvcg11/output/github-snake.svg#gh-light-mode-only)
+![Contribution Snake - dark](https://raw.githubusercontent.com/cvcg11/cvcg11/output/github-snake-dark.svg#gh-dark-mode-only)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=cvcg11&theme=github-dark-blue&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ---
 
-## Core Competencies
-
-**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, MapStruct
-
-**Databases:** PostgreSQL, MySQL, Redis, MongoDB, relational and NoSQL database modeling
-
-**Security:** OAuth2, JWT authentication, refresh token rotation, Redis-backed sessions, role and privilege-based authorization, password hashing, rate limiting
-
-**Architecture:** Modular architecture, layered architecture, multi-tenancy, DTO-based API contracts, command/query separation, event-driven processing
-
-**Backend Practices:** REST API design, transactional consistency, request validation, centralized exception handling, JPA Auditing, pagination, file processing
-
-**Tools:** Git, Maven, Docker, Flyway, Cloudinary
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/christian-cvcg) · [GitHub](https://github.com/cvcg11) · [Email](mailto:cristianvcg11@gmail.com)
