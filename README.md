@@ -31,6 +31,12 @@ It incorporates **OAuth 2.0/OIDC, Docker, CI/CD, and MCP integrations**, with a 
 **Cloud & DevOps:** Google Cloud Platform · Cloud Run · Docker · GitHub Actions · CI/CD  
 **Data & integrations:** PostgreSQL · OAuth/OIDC · Cloudinary · Webhooks · MCP
 
+## Development Time
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## Beyond traditional backend
 
 - **YonJobSv:** AI-powered recruiting platform with OCR, RAG-based job matching, payments, and webhook notifications.
