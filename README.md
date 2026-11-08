@@ -35,6 +35,14 @@ It incorporates **OAuth 2.0/OIDC, Docker, CI/CD, and MCP integrations**, with a 
 
 <!--START_SECTION:waka-->
 
+```txt
+Total Time: 1,175 hrs 43 mins
+
+Java                534 hrs 29 mins       ▱▱▱▱▱▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰   44.49 %
+JavaScript          279 hrs 8 mins        ▱▱▱▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   23.24 %
+SQL                 49 hrs 41 mins        ▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   04.14 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Beyond traditional backend
