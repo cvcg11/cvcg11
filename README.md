@@ -15,14 +15,6 @@ I'm a backend developer focused on building **secure, maintainable, and scalable
 
 My current interests include **Google Cloud Platform (GCP)**, containerized deployments, CI/CD, transactional consistency, and well-structured REST APIs.
 
-## Featured Project · CGI Import
-
-**CGI Import** is an automotive management platform designed to centralize customer information, vehicle records, import operations, and business processes.
-
-Built with **Java, Spring Boot, and PostgreSQL**, the project focuses on secure REST APIs, modular architecture, and integration with web and mobile applications.
-
-It incorporates **OAuth 2.0/OIDC, Docker, CI/CD, and MCP integrations**, with a cloud-ready architecture designed for **Google Cloud Platform (GCP)**.
-
 ## Tech stack
 
 [![Tech stack](https://skillicons.dev/icons?i=java,spring,postgres,docker,gcp,githubactions&perline=8)](https://skillicons.dev)
